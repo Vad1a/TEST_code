@@ -9,7 +9,7 @@ int main()
  a = ++i;
  printf("a = ++i i = %d, a = %d\n", i,a);
  a = i++;
- printf("a = i++ i = %d, a = %d\n", i,a);
+ printf("a = i+ i = %d, a = %d\n", i,a);
  /*
  i=0;a=0;
  printf("i=0;a=0; i = %d, a = %d\n", i,a);
